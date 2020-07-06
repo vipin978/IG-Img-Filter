@@ -40,11 +40,11 @@ class App extends React.Component {
     }
   }
 
-  // componentDidMount() {
-  //   fetch('http://localhost:3001/')
-  //   .then(res => res.json())
-  //   .then(data => console.log(data))
-  // }
+  componentDidMount() {
+    fetch('https://frozen-reaches-78276.herokuapp.com/')
+    .then(res => res.json())
+    .then(data => console.log(data))
+  }
 
   setCategory = (response) => {
     var array = response.outputs[0].data.concepts
