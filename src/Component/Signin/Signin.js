@@ -31,7 +31,10 @@ class Signin extends React.Component{
         password:this.state.password
       })
     })
-    .then(res => {res.json() console.log(res)})
+    .then(res => {
+      console.log(res);
+      res.json();
+    })
     .then(data => {
     if(data.status === 'success'){
       this.props.loadData(data);
