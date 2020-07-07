@@ -24,6 +24,7 @@ class Signin extends React.Component{
     // onRouteChange('home')
     fetch('https://frozen-reaches-78276.herokuapp.com/signin',{
       method:'post',
+      mode: 'no-cors',
       headers: {'Content-Type':'application/json'},
       body: JSON.stringify({
         email:this.state.email,
