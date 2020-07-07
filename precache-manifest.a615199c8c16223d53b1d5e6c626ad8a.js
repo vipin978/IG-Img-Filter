@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be86897aaf67dfa22195346ec9568237",
+    "revision": "259a1e90499c033a2a95b03d6c1de2d1",
     "url": "/IG-Img-Filter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IG-Img-Filter/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "65f3a7fe9162e339dc8c",
+    "revision": "2825e4cc105e5ce4856f",
     "url": "/IG-Img-Filter/static/css/main.15237c91.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IG-Img-Filter/static/js/2.3ff150e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65f3a7fe9162e339dc8c",
-    "url": "/IG-Img-Filter/static/js/main.5868f5a8.chunk.js"
+    "revision": "2825e4cc105e5ce4856f",
+    "url": "/IG-Img-Filter/static/js/main.c5c60b44.chunk.js"
   },
   {
     "revision": "b58f10a4e92bdc29b7f6",
