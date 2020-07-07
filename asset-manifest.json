@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/IG-Img-Filter/static/css/main.15237c91.chunk.css",
-    "main.js": "/IG-Img-Filter/static/js/main.0bf9e9c7.chunk.js",
-    "main.js.map": "/IG-Img-Filter/static/js/main.0bf9e9c7.chunk.js.map",
+    "main.js": "/IG-Img-Filter/static/js/main.5868f5a8.chunk.js",
+    "main.js.map": "/IG-Img-Filter/static/js/main.5868f5a8.chunk.js.map",
     "runtime-main.js": "/IG-Img-Filter/static/js/runtime-main.1732590a.js",
     "runtime-main.js.map": "/IG-Img-Filter/static/js/runtime-main.1732590a.js.map",
     "static/css/2.036b41f9.chunk.css": "/IG-Img-Filter/static/css/2.036b41f9.chunk.css",
     "static/js/2.3ff150e3.chunk.js": "/IG-Img-Filter/static/js/2.3ff150e3.chunk.js",
     "static/js/2.3ff150e3.chunk.js.map": "/IG-Img-Filter/static/js/2.3ff150e3.chunk.js.map",
     "index.html": "/IG-Img-Filter/index.html",
-    "precache-manifest.1cfaf778b37d8c03146788ddd1651f97.js": "/IG-Img-Filter/precache-manifest.1cfaf778b37d8c03146788ddd1651f97.js",
+    "precache-manifest.79576f3f7abee65b7ff323e72080ac81.js": "/IG-Img-Filter/precache-manifest.79576f3f7abee65b7ff323e72080ac81.js",
     "service-worker.js": "/IG-Img-Filter/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/IG-Img-Filter/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.15237c91.chunk.css.map": "/IG-Img-Filter/static/css/main.15237c91.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.3ff150e3.chunk.js",
     "static/css/main.15237c91.chunk.css",
-    "static/js/main.0bf9e9c7.chunk.js"
+    "static/js/main.5868f5a8.chunk.js"
   ]
 }
