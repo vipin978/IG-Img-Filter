@@ -27,7 +27,6 @@ class Register extends React.Component {
       const {onRouteChange} = this.props
       fetch('https://frozen-reaches-78276.herokuapp.com/register',{
         method:'post',
-        mode: 'no-cors',
         headers: {'Content-Type':'application/json'},
         body: JSON.stringify({
           name:this.state.name,
